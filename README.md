@@ -1,7 +1,7 @@
 # Hi, stranger, George here
 
 
-## I'm a Student, Humble man and Overthinker 
+## 
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking forward to collaborate with more developers
