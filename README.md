@@ -1,12 +1,4 @@
-# Hi, stranger, George here
-
-
-## 
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking forward to collaborate with more developers
-- 🥅 2021 Goals: Use my brain to make pretty things!
-- ⚡ Fun fact: I love to sing and play guitar and piano
+# Hi, stranger, George is here
 
 
 ### Connect with me:
